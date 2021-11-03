@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/74447462/140016619-e7a58dae-2741-4f5b-
 	- use and manage multile controls in 1 element with comma `,`
 - setTimeout() + animation delay:
 	- to create "wait" and "smooth" switch 
-	- 
+- update.querySelectorAll() to count --> instead counter in loop
 ## It's still hard to process in mind :
    - What and where variables which used for recall from localStorage. 
 	- How we use those variables to update our data when F5
