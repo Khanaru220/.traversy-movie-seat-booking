@@ -13,7 +13,8 @@ https://user-images.githubusercontent.com/74447462/140016619-e7a58dae-2741-4f5b-
 ## Music license:
 **In-depth** from [audiohub.com](https://audiohub.com/song/in-depth)
 
-![try-VS-learn](https://user-images.githubusercontent.com/74447462/140016622-faff4d57-daae-4363-a83e-fbdc50e1c2cd.png)
+![try-VS-learn](https://user-images.githubusercontent.com/74447462/140018742-89bc46dc-f4d2-474a-86d4-6d8cf086a8b5.png)
+
 
 ## What I've tried this time?
 
