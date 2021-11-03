@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <a
+      href="../jonas/index.html"
+      style="position: fixed; left: 10px; top: 10px; color: rgb(111, 24, 192)"
+      >Jonas</a
+    >
+    <div class="container">
+      <div class="select-board">
+        <label class="film-label">Pick a movie</label>
+        <select class="film-select">
+          <option value="">&lt;Select film&gt;</option>
+          <option value="10">Tiệc Trăng Máu (₫10)</option>
+          <option value="12">Bố Già (₫12)</option>
+          <option value="8">Lật Mặt 3 (₫8)</option>
+          <option value="9">Mắc Biết (₫9)</option>
+        </select>
+      </div>
+      <ul class="legion">
+        <li>
+          <div class="icon">&nbsp;</div>
+          <small>N/A</small>
+        </li>
+        <li>
+          <div class="icon icon--selected">&nbsp;</div>
+          <small>Selected</small>
+        </li>
+        <li>
+          <div class="icon icon--occupied">&nbsp;</div>
+          <small>Occupied</small>
+        </li>
+      </ul>
+      <div class="show-case">
+        <div class="screen"></div>
+        <div class="seat-board">
+          <div class="area grid--2-columns">
+            <div class="column">
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat">
+                <div class="icon icon--occupied">&nbsp;</div>
+              </div>
+              <div class="seat">
+                <div class="icon icon--occupied">&nbsp;</div>
+              </div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+            </div>
+            <div class="column">
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+            </div>
+          </div>
+          <div class="area grid--4-columns">
+            <div class="column">
+              <div class="seat">
+                <div class="icon">&nbsp;</div>
+              </div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat">
+                <div class="icon icon--occupied">&nbsp;</div>
+              </div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+            </div>
+            <div class="column">
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat">
+                <div class="icon icon--occupied">&nbsp;</div>
+              </div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat">
+                <div class="icon icon--occupied">&nbsp;</div>
+              </div>
+              <div class="seat">
+                <div class="icon icon--occupied">&nbsp;</div>
+              </div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+            </div>
+            <div class="column">
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat">
+                <div class="icon icon--occupied">&nbsp;</div>
+              </div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat">
+                <div class="icon">&nbsp;</div>
+              </div>
+              <div class="seat">
+                <div class="icon icon--occupied">&nbsp;</div>
+              </div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+            </div>
+            <div class="column">
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat">
+                <div class="icon">&nbsp;</div>
+              </div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat">
+                <div class="icon">&nbsp;</div>
+              </div>
+              <div class="seat">
+                <div class="icon icon--occupied">&nbsp;</div>
+              </div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+            </div>
+          </div>
+          <div class="area grid--2-columns">
+            <div class="column">
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat">
+                <div class="icon icon--occupied">&nbsp;</div>
+              </div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+            </div>
+            <div class="column">
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat">
+                <div class="icon icon--occupied">&nbsp;</div>
+              </div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat"><div class="icon">&nbsp;</div></div>
+              <div class="seat">
+                <div class="icon icon--occupied">&nbsp;</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="info-select">
+        You have selected
+        <span class="info-number info-number--seat">0</span> seats for a price
+        of $<span class="info-number info-number--price">0</span>
+      </div>
+    </div>
+
+    <script src="script2.js"></script>
+  </body>
+</html>
