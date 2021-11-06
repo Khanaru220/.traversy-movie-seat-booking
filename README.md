@@ -31,3 +31,5 @@ https://user-images.githubusercontent.com/74447462/140016619-e7a58dae-2741-4f5b-
 	- How we use those variables to update our data when F5
 	---> *not control the save, recall ; update technique*
 
+![mindmap](https://user-images.githubusercontent.com/74447462/140616489-dec3dd88-616e-4598-8c98-3ccb4f77e551.png)
+
