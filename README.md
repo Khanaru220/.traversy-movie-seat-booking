@@ -30,6 +30,7 @@ https://user-images.githubusercontent.com/74447462/140726463-0e0f3632-4964-4da6-
 - setTimeout() + animation delay:
 	- to create "wait" and "smooth" switch 
 - update.querySelectorAll() to count --> instead counter in loop
+- first time use Git to push/pull code to gitHub
 - use **OBS** to capture 60FPS video + capture original cursor. But lose cursor effect from **Camstasia**
 ## It's still hard to process in mind :
    - What and where variables which used for recall from localStorage. 
