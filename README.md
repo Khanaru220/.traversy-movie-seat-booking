@@ -1,24 +1,16 @@
-**[Instructed Practice] build function to book seats, store in localStorage**
-<br/><br/> 
-> 2nd project from Traversy's 20 Project JS course on Udemy
-> 
-> https://www.udemy.com/course/web-projects-with-vanilla-javascript/
+# [Instructed practice] build function to book seats, store in localStorage
 
-<br/><br/> 
 _(Not kidding. Where's my headphones 🗿)_
 
 
 https://user-images.githubusercontent.com/74447462/140726463-0e0f3632-4964-4da6-846d-53361bbd0c92.mp4
 
 
-## Music credit:
-**Puppy Love** - Bad Snacks from Youtube Audio Library  
-**In-depth** from [audiohub.com](https://audiohub.com/song/in-depth)  
 
-
-
-![try-VS-learn](https://user-images.githubusercontent.com/74447462/140018742-89bc46dc-f4d2-474a-86d4-6d8cf086a8b5.png)
-
+## Credit:
+- **Puppy Love** - Bad Snacks from Youtube Audio Library  
+- **In-depth** from [audiohub.com](https://audiohub.com/song/in-depth)  
+- 2nd project from [Traversy's 20 Project JS course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) on Udemy
 
 ## What I've tried this time?
 
@@ -40,3 +32,6 @@ https://user-images.githubusercontent.com/74447462/140726463-0e0f3632-4964-4da6-
 
 ![mindmap](https://user-images.githubusercontent.com/74447462/140616489-dec3dd88-616e-4598-8c98-3ccb4f77e551.png)
 
+## Preview code
+
+![try-VS-learn](https://user-images.githubusercontent.com/74447462/140018742-89bc46dc-f4d2-474a-86d4-6d8cf086a8b5.png)
